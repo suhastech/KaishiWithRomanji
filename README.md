@@ -1,4 +1,6 @@
-# Kaishi 1.5k
+# Kaishi 1.5k with Romanji
+
+I have forked the Kaishi 1.5k to include Romanji for the Word as well as Sentence. It should be under {{Word Romanji}} and {{Sentence Romanji}} fields.
 
 Welcome to the public repository for **Kaishi 1.5k**, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the front of the deck looks like:
 
